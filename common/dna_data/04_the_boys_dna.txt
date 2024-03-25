@@ -1,7 +1,5 @@
-900001_Adam ={
+900001_adam ={
 portrait_info={
-		type=male
-		id=0
 		genes={ 			hair_color={ 48 252 48 252 }
  			skin_color={ 111 133 55 152 }
  			eye_color={ 18 201 21 237 }
@@ -110,5 +108,8 @@ portrait_info={
  			hairstyles={ "northern_hairstyles_straight" 191 "all_hairstyles" 0 }
  			clothes={ "western_bedchamber" 79 "most_clothes" 0 }
  }
-
 }
+enabled = yes
+}
+
+

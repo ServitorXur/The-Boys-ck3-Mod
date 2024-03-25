@@ -1,10 +1,7 @@
 version="1.5*"
 tags={
 	"Character Focuses"
-	"Culture"
-	"Gameplay"
-	"Historical"
-	"Balance"
+	"Alternative History"
 }
-name="THE BOYS MOD!!!"
+name="The Boys Mod"
 supported_version="1.12.3"

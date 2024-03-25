@@ -118,8 +118,10 @@
  protestant:0 "Protestantism"
  protestant_adj:0 "Protestant "
  protestant_adherent:0 "Protestant"
- wprotestant_adherent_plural:0 "Protestants"
+ protestant_adherent_plural:0 "Protestants"
  protestant_desc:0 "Four individuals - Adam, Alex, Gatlin, and Eban - were chosen by the divine to receive a revelation. They were enlightened with the knowledge that the Catholic Church and the Pope had strayed from the path of righteousness. Compelled by their newfound understanding, they made the courageous decision to separate from what they now perceived as an institution of malevolence. This marked the birth of Prodistantisim, a beacon of hope and purity amidst the shadows of corruption."
+ protestant_religious_head_title_name:0 "Mega Church"
+ protestant_religious_head_title:0 "Head Pastor"
 
  lollard:0 "Lollardy"
  lollard_adj:0 "Lollard"

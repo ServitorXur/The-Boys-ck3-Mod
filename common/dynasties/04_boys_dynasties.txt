@@ -1,0 +1,5 @@
+9000011 = {
+	name = "dynn_Mackintosh"
+	culture = "scottish"
+    motto = "dynn_Mackintosh_motto"
+}
