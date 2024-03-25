@@ -1,0 +1,13 @@
+900001 = {
+    dna= 900001_Adam
+    culture=177
+	faith=11
+	age=18
+	random_traits=no
+	name="Adam"
+	skill={ 7 6 9 10 1 6 }
+	health=4.75
+	sexuality=he
+	traits={ education_learning_3 calm stubborn ambitious scholar contrite depressed_genetic intellect_good_1 fornicator }
+	mass=1
+} 
