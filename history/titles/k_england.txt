@@ -51,7 +51,7 @@ k_england = {
 		holder = 114 # Eadward the Confessor
 	}
 	1066.1.5 = {
-		holder = 90001 # Harold Godwinson
+		holder = 900001 #Adam
 		effect = { # Should technically be the capital after William wins, but London was already quite important, so we'll have it be the capital at game start 1066.
 			set_capital_county = title:c_middlesex
 		}

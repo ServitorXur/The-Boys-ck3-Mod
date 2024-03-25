@@ -1,4 +1,4 @@
-house_mackintosh{
+house_mackintosh = {
     name = "dynn_Mackintosh"
 	dynasty = 9000011 
 
