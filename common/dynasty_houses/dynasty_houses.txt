@@ -1,5 +1,5 @@
 house_mackintosh = {
-    name = "dynn_Mackintosh"
+    name = "Mackintosh"
 	dynasty = 9000011 
 
 }

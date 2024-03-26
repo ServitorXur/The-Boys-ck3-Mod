@@ -3485,8 +3485,9 @@ e_britannia = {
 		change_development_level = 2
 	}
 	
-	1000.1.1 = {
+	1066.1.1 = {
 		change_development_level = 5
+		holder = 900001
 	}
 	
 	1100.1.1 = {
@@ -4961,8 +4962,9 @@ e_bengal = {
 		change_development_level = 2
 	}
 	
-	1000.1.1 = {
+	1066.1.1 = {
 		change_development_level = 5
+		holder= 900002
 	}
 	
 	1100.1.1 = {

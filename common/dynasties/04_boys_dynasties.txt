@@ -1,5 +1,55 @@
 9000011 = {
-	name = "dynn_Mackintosh"
+	name = "Mackintosh"
 	culture = "scottish"
-    motto = "dynn_Mackintosh_motto"
+    motto = "Touch Not The Cat Bot A Glove"
+}
+9000022 = {
+	name = "Kapoor"
+	culture = "mon"
+    motto = "I wanna join the Airforce!"
+}
+9000033={
+	name = "Rogers"
+	culture = "italian"
+    motto = "I'm in love of youssef!"
+}
+9000044={
+	name = "Morales"
+	culture = "german"
+    motto = "SHUT UP"
+}
+9000055={
+	name = "Mattew"
+	culture = "punjabi"
+    motto = "What?"
+}
+9000066{
+	name = "Goldstein"
+	culture = "norwegian"
+    motto = "I like little girls they make me feel so good!"
+}
+9000077{
+	name = "Suarez"
+	culture = "castilian"
+    motto = "I want to go back to San Antonio"
+}
+9000088{
+	name = "Mireles"
+	culture = "asturleonese"
+    motto = "Take heart!"
+}
+9000099{
+	name = "Harris"
+	culture = "han"
+    motto = "Beyblade let it rip!"
+}
+9000111{
+	name = "Rendon"
+	culture = "sicilian"
+    motto = "I love Joseph!"
+}
+9000112{
+	name = "Shareef"
+	culture = "barinis"
+    motto = "Death to Israel!"
 }
