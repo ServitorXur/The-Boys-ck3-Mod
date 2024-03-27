@@ -333,7 +333,7 @@
 			doctrine = doctrine_pluralism_righteous #Mostly to keep them from forcing Catholics out of Britain.
 
 			#Marriage
-			doctrine = doctrine_divorce_approval
+			doctrine = doctrine_divorce_allowed
 
 			#Crimes
 			doctrine = doctrine_kinslaying_any_dynasty_member_crime #A dramatic crime under medieval Irish law.
