@@ -1,0 +1,1796 @@
+e_byzantium = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+k_thessalonika = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_epirus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_hellas = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_krete = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_croatia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_serbia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_bulgaria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_cyprus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_nikaea = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_anatolia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_pontus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_armenia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_georgia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_sicily = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+k_venice = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_thrace = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_strymon = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_aegean_islands = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_thessalonika = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_thessaly = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_epirus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_dyrrachion = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_cephalonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_athens = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_achaia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_krete = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_dalmatia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_croatia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_slavonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_bosna = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_lower_bosna = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_usora = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_ragusa = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_rashka = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_macva = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_duklja = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_vidin = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_turnovo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_dobrudja = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_bulgaria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_philippopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_cyprus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_opsikion = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_ephese = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_thracesia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_optimatoi = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_bucellaria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_cilicia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_cibyrrhaeot = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_anatolia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_cappadocia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_charsianon = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_paphlagonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_armeniac = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_sebasteia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_chaldia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_mesopotamia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_vaspurakan = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_greater_armenia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_tao-klarjeti = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_abkhazia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_georgia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_sicily = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_benevento = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_capua = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_apulia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_salerno = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_calabria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+d_venice = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_byzantion = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kalliopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_brysis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_mosynopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_serres = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_naxos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_abydos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lesbos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_chios = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_rhodos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_thessalonika = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_chalkidike = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_veria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_thessalia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_demetrias = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_neopatras = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_thessaliotis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_nicopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_epeiros = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_aetolia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_metzovo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_dyrrachion = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_arbanon = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_debar = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_antipatreia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_avlonas = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cephalonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_buthrotum = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_attica = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_boeotia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_euboea = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_achaia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_korinthos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_messenia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_laconia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_chandax = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_chania = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zadar = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_knin = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cetina = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_gacka = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lika = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cherso = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_modrus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zagreb = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zagorje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pozega = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vukovar = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_rama = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_donjikraji = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vhrbosna = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pset = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_soli = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_usora = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vodica = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vrbas = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zachlumia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zelengora = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zavrsje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pagania = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_ragusa = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_rashka = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zlatibor = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_sumadija = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_podrinje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_hvosno = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_macva = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_beograd = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_duklja = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pomorje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_travunia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vidin = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_branicevo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_turnovo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_sredets = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_nikopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_dorostorum = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vratsa = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_aytos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_constanta = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_mesembria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_naissus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pomoravlje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_velbazhd = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pirin = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_strumica = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_skopje = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_ohrid = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_philippopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kran = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_beroe = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_burgas = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_adrianopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zherkovo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_rhodopes = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_nicosia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_famagusta = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_nikaea = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_mysia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_prusa = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_phrygia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_ionia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_aeolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lydia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_thyatira = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_hadrianeia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_chonae = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_bithynia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_tarsos = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_honorias = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_galatia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_hadrianopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cilicia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_seleucia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lycandus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_tall_hamid = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lycia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_caria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pamphylia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lycaonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pacatiana = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pisidia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_selge = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_galatia_salutaris = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_philomelium = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_isauria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cappadocia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lower_galatia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_charsianon = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kaisereia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kyzistra = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_paphlagonia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_pompeiopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_helenopontus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_sinope = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_euchaita = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_zela = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_sebasteia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_azysia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_ablastha = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_trebizond = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cerasus = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_colonea = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_satala = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_theodosiopolis = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_melitene = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_mesopotamia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vaspurakan = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_turuberan = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_apahunik = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_hayk = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_bagrewand = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_vanand = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_khachen = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_suenik = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_dvin = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_tao = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_klarjeti = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kartli = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_acampse = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_abkhazia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_odishi = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_svaneti = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_guria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_tbilisi = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lori = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_kakheti = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_hereti = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_palermo = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_messina = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_siracusa = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_agrigento = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_malta = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_benevento = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_foggia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_capua = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_napoli = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_apulia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_bari = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_lecce = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_salerno = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_camarda = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_reggio_calabria = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_cosenza = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_rossano = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_venezia = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 
+
+c_veneto = { 
+    1066.9.14 = { 
+        holder = 900010
+    }
+}
+ 

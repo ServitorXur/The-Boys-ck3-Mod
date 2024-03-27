@@ -1,0 +1,641 @@
+e_deccan={ 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+
+k_maharastra = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+k_karnata = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+k_tamilakam = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+k_andhra = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+k_telingana = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+k_lanka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_devagiri = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_vidharba = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_konkana = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_nasikya = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_rattapadi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_kalyani = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_gangavadi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_nulambavadi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_raichur_doab = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_pandya_nadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_chola_nadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_chera_nadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_tondai_nadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_udayagiri = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_vengi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_warangal = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_racakonda = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_dakhina_desa = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_ruhunu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+d_sinhala = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_devagiri = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_mulaka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+c_muluvagil = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_vatsagulma = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_mahur = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_acalapura = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_ramagiri = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_candragiri= { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+
+c_canda = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_vairagara = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_karahataka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_parivi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_surparaka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_panaji = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kanara = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kondana = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_trikuta = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_taradavadi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_ashmaka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_naldurg = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kolhapur = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kalyani = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_sagar = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_srirangapatna = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_mahishaka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_talakad = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_uchangidurga = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_gutti = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_adoni = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_banavasi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_idatarainadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_vatapi = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_vaijayanti = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_koppam = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_madurai = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kongu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_uraiyur = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_cholamandalam = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_tagadur = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_tiruvannamalai = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kerala = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+c_eranad = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+c_venadu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_alupa = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_maldives = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kanchipuram = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_penugonda = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_nellore = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_renandu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_palakka = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_cumbum = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_nallamala = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_vengipura = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_mosala = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_orangallu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kambampet = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_balkonda = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_racakonda = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_pannagallu = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_dakhina_desa = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kotte = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_rohana = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_batticaloa = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_phiti = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_kandy = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_trincomalee = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 
+
+c_jaffna = { 
+    1066.9.14 = { 
+        holder = 900005
+    }
+}
+ 

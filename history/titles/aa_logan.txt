@@ -1,0 +1,445 @@
+e_spain={
+    1066.9.14 = { 
+        holder = 900008
+    }
+
+}
+
+k_badajoz = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+k_castille = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+k_navarra = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+k_asturias = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+k_leon = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+k_spanish_galicia = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_beja = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_badajoz = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_algarve = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+ 
+
+d_mallorca = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+ 
+
+d_castilla = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_cantabria = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_navarra = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_viscaya = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_leon = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_asturias = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_galicia = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_porto = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+d_coimbra = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_lisboa = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_beja = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_alcacer_do_sal = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_elvas = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_badajoz = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_plasencia = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_caceres = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_merida = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_medellin = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_faro = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_silves = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+c_burgos = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_valladolid = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_soria = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_cuellar = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_olmedo = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_asturias_de_santillana = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_amaya = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_navarra = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_najera = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_tudela = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_viscaya = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_ipuskoa = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_leon = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_benavente = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_zamora = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_salamanca = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_avila = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_asturias_de_oviedo = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_pravia = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_coruna = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_santiago = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_tui = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_astorga = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_monterrei = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_porto = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_braganza = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_coimbra = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_viseu = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_aveiro = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 
+
+c_castelo_branco = { 
+    1066.9.14 = { 
+        holder = 900008
+    }
+}
+ 

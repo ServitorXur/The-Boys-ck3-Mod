@@ -2,7 +2,7 @@
 	name = "Adam"
 	dynasty= 9000011
 	dna = 900001_adam
-	skill={ 7 6 9 10 1 6 }
+	skill={ 7 6 9 10 5 6 }
 	trait = education_learning_3
 	trait = calm
 	trait = stubborn
@@ -148,14 +148,14 @@ trait = education_martial_3
 		mass=76
 }
 900008={
-	culture="asturleonese "
+	culture="asturleonese"
 		faith="catholic"
 		1048.1.1 = {
 		birth = yes
 	}
 		random_traits=no
 		name="Logan"
-		dynasty=
+		dynasty=9000088
 		dna=900008_logan
 		skill={ 8 9 5 5 10 13 }
 		health=5
@@ -178,7 +178,7 @@ trait = intellect_bad_1
 	}
 		random_traits=no
 		name="PJ"
-		dynasty=
+		dynasty=9000099
 		dna=900009_pj
 		skill={ 5 7 13 10 12 11 }
 		health=5.25
@@ -197,7 +197,7 @@ trait = content
 	}
 		random_traits=no
 		name="Sirius"
-		dynasty=
+		dynasty=9000111
 		dna=900010_sirius
 		skill={ 9 5 5 8 5 5 }
 		health=5
@@ -211,14 +211,14 @@ trait = peasant_leader
 
 }
 900011={
-	culture="barinis"
-		faith="ashari "
+		culture = "baranis"
+		faith="ashari"
 		1048.1.1 = {
 		birth = yes
 	}
 		random_traits=no
 		name="Youssef"
-		dynasty=
+		dynasty=9000112
 		dna=900011_youssef
 		skill={ 9 5 11 9 12 4 }
 		health=5

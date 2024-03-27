@@ -1,0 +1,1698 @@
+e_tibet = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+k_u = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_tsang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_kham = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_amdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_gyalrong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_guge = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_maryul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_lhomon = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+k_xia = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_yarlung = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_lhasa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_nagchu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_conyi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_xigaze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_sagya = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_ngamring = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_nyima = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_qamdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_boyul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_nyingchi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_nangqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_lhatok = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_lingtsang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_dege = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_batang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_litang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_xining = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_tuyuhun = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_nagormo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_amdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_zadoi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_qumarleb = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_gyalrong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_chakla = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_golog = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_malho = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_gainlho = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_ngari = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_kinnaur = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_purang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_ladakh = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_zanskar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_baltiyul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_aksai_chin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_rutog = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_bumthang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_paro = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_monyul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_lhoyul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_dzayul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_xia = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_wuluhai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_zhenfan = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_liangzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_shanzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_qilin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_ganzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_yijinai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_guiyi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+d_aksay = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zetang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nagarze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_comai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyaca = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhasa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyama = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhunzhub = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyemo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_damxung = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nagchu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_baingoin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhari = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_cozhelhoma = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_garco = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_garkung = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sewa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xigaze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyangze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kangmar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sagya = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyalam = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyirong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kyakyaru = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kagar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_caze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xaitongmoin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyima = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_aso = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xainza = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_qamdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dengqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_baqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sog = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_banbar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_bome = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_baxoi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zogang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyingchi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gongbo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nangqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyegumdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhatok = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zhagyab = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gonjo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lingtsang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_ariksar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dege = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_pelyul = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_garze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_batang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_markam = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_deqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gyaitang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_litang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lenggu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyagrong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xining = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_datong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_fuqi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gerqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xigortang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_derlenka = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_ulam = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tuulain = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nagormo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_hohaseco = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lenghu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_mangnai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kumkol = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_amdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_nyainrong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yenshipin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dangla = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_aqenganggyai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_chumarho = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zadoi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_trandam = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zhidoi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_qumarleb = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_chindu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_ngoring = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_barkam = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_ngawa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_maowun = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sungqu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zoige = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_quqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_chakla = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhagang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dawu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sertar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_maqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_madoi = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_baima = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_rebgong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_mangra = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zekog = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_jone = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sangqu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tewo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_maqu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tsaparang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kyunglung = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gegyai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gerze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gomoco = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kamru = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dhankar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_purang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_cuonaco = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lunggar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zhongba = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_manthang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_coqen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_leh = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_demchok = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_diskit = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_padum = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_darcha = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_purig = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_skardu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_shigar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_khaplu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_khurnak = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_thaldat = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_sumdo = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_rutog = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_memar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_bumthang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kurmaed = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_trongsa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_paro = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_punakha = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_daramdin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_chungthang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tawang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_cona = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_lhunze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_itanagar = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_along = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_mainling = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_pemako = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_rima = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_golag = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_roing = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tezu = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_xingqing = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_shunzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_wuluhai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_wuda = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_zhenfan = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_tenggeli = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_alxa = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_liangzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_fanhe = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_dajing = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_baiyin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yongdeng = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_shanzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_kuozhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_qilin = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yalong = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_ganzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_linze = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_gaotai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_jinta = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_suzhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yumen = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yijinai = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_wentugaole = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_heihe = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_mazongshan = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_guazhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_changma = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_hongliuyuan = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_shazhou = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_yumenguan = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_subei = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_aksay = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 
+
+c_haltang = { 
+    1066.9.14 = { 
+        holder = 900009
+    }
+}
+ 

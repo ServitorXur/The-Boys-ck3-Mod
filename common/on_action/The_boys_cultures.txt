@@ -1,0 +1,219 @@
+on_game_start_after_lobby = {
+    on_actions = {
+        my_mod_on_game_start
+    }
+}
+
+my_mod_on_game_start = {
+    effect = {
+        title:k_england = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900001 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_bengal = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900002 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_italy = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900003 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_east_francia = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900004 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_maharastra = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900005 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_sweden = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900006 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_valencia = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900007 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+ 
+        title:k_badajoz = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900008 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+
+        title:k_u = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900009 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+  
+        title:k_thessalonika = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900010 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+   
+        title:k_maghreb = { # Set the title you want to start from -- has to be a title that already has a holder
+            character:900011 = { save_temporary_scope_as = character_to_receive } # If you numbered your character, put the numbers here, e.g., character:123456
+            random_this_title_or_de_jure_above = { # Find the empire title in the de jure hierarchy above it
+                limit = { tier = tier_empire }
+                every_in_de_jure_hierarchy = { # For every title beneath the de jure that is a county or greater:
+                    if = {
+                        limit = {
+                            tier >= tier_county
+                        }
+                    }
+                    if = { # If this title is a county, set the culture and faith to that of the character receiving it
+                        limit = { tier = tier_county }
+                        set_county_culture = scope:character_to_receive.culture
+                        set_county_faith = scope:character_to_receive.faith
+                    }
+                }
+            }
+        }
+    }
+
+}

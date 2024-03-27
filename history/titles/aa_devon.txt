@@ -1,0 +1,1490 @@
+e_hre={ 
+    1066.9.14 = { 
+        holder = 900004
+        succession_laws = {}
+    }
+}
+
+
+k_frisia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+k_lotharingia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+k_bavaria = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+k_east_francia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+k_bohemia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_moravia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_bohemia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_anhalt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_angria = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_westfalen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_ostfalen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_meissen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_lausitz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_holstein = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_thuringia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_holland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_gelre = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_utrecht = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_frisia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_luxembourg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_brabant = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_julich = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_upper_lorraine = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_lower_lorraine = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_bavaria = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_nordgau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_salzburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_augsburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_steyermark = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_osterreich = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_tyrol = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_carinthia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_krain = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_istria = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_west_franconia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_east_franconia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_hesse = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_currezia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_alsace = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+d_swabia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_dessau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_halberstadt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_magdeburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_blankenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_mansfeld = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_mersenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_minden = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_lippe = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_bremen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wolpe = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hannover = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hildesheim = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_oldenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_osnabruck = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_tecklenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_munster = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_waldeck = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_paderborn = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_luneburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_brunswick = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hamburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_dannenberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_stendal = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_meissen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_dresden = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wolkenstein = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_osterland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_naumburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_vogtland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_cottbus = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_gorlitz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_juterbog = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wittenberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_brene = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_spreewald = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_naumberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_lubeck = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_stade = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ditmarschen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_schmalkalden = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_gottingen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_gleichenstein = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_orlamunde = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_lobdaburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_holland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_westfriesland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_zeeland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_guelders = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_arnhem = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_zutphen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_nedersticht = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_oversticht = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_groningen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_dokkum = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ostfriesland = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_frisia = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_luxembourg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_bouillon = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_liege = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_namur = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_brabant = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_antwerpen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hainaut = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_cambray = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_aachen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_cleves = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_maastricht = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_trier = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_nancy = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_metz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_saarbrucken = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_puttlingen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_neufchateau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_cologne = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_dortmund = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_arnsberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_mark = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_koblenz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_bergh = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_sayn = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_regensburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_munchen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_eschenlohe = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_rothenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_geisenhausen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_frontenhausen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_falkenstein = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ingolstadt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_passau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_eichstadt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_leuchtenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_parsberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hohenburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_salzburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_berchtesgaden = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hallstatt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_linz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_schaumberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_augsburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_alpsee = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_kempten = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ravensburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_burgau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_graz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_pitten = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_liebnitz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_murzzuschlag = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_vienna = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hohenau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_sankt_polten = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_freistadt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_amstetten = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_krems = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_innsbruck = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_brixen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_lienz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_karnten = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_kammersberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_knittelfeld = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_villach = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_kranj = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ljubljana = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_pula = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_frankfurt = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_mainz = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_klingenberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_erbach = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_worms = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_speyer = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_vaihingen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_durne = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_kaiserslautern = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wurzburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ansbach = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_coburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hohenlohe = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_nurnberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_bamberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_nordlingen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wiltberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_kassel = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_fulda = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_nassau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_marburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_grisons = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_sankt_gallen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_zurich = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_strassburg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_breisgau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_colmar = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_sundgau = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_ulm = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_grunningen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_wurttemberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_baden = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_zollern = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hohenberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_furstenberg = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_praha = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_litomerice = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_zatec = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_plzen = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_doudleby = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_boleslav = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_hradec = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_caslav = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_olomouc = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_opava = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_prerov = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_brno = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_jihlava = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}
+ 
+
+c_znojmo = { 
+    1066.9.14 = { 
+        holder = 900004
+    }
+}

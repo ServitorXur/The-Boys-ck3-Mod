@@ -1,0 +1,865 @@
+e_maghreb = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+k_maghreb = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+k_tahert = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+k_africa = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+k_anbiya = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+k_sahara = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_marrakesh = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_sous = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tafilalt = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_fes = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_rif = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_canarias = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tlemcen = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tahert = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_alger = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_bejaia = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_zab = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_mzab = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_kairouan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tunis = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_kroumerie = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_gabes = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_jerid = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tripolitania = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_syrte = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_zammour = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_adrar = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_touat = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_taghaza = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tadmekka = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_ghat = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_air = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_kawar = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_tibesti = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+d_fezzan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_marrakesh = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tadla = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_fazaz = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tamasna = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_asfi = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tinmallal = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_sous = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_agadir = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ifni = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_draa = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_sijilmasa = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tudgha = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ziz = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_fes = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_muluya = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_taza = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_meknes = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_gharb = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tangiers = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ceuta = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_melilla = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_canarias = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_fuerteventura = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_madeira = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tlemcen = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_wajda = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_orania = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_hunyan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tahert = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_yalala = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ashir = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_figuig = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_algier = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tanas = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_bejaia = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_satif = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_hodna = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_biskra = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_bilizma = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_wargla = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_laghwat = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ghardaia = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_arigh = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_kairwan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_west_qamuda = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tabassa = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tunis = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_satfura = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_medjerda = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_mahdiya = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_constantine = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_annaba = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_gabes = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_sfax = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_qashtiliya = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_souf = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_bir_amir = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ghadames = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tripolitana = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_djerba = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_jafara = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_syrte = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_labda = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_waddan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_zammour = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tindouf = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tiris = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_waddan = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_azukki = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_amatlus = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_touat = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tamentit = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_taghaza = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_saoura = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tadmekka = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tessalit = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ghat = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_djanet = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_takkeda = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_air = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_bilma = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_dirku = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_djado = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_ain_galakka = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_bodele = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_tibesti = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_murzuk = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_zawila = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 
+
+c_germa = { 
+    1066.9.14 = { 
+        holder = 900011
+    }
+}
+ 

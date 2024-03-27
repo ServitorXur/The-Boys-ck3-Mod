@@ -316,7 +316,7 @@
 			}
 		}
 		protestant = {
-			color = { 0.5 0.5 0.3 }
+			color = { 38 57 199 }
 			icon = Prodestant
 			graphical_faith = "catholic_gfx"
 			

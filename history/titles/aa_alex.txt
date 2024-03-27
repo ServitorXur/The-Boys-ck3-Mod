@@ -1,0 +1,816 @@
+e_bengal{
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+k_bengal = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+k_kamarupa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+k_bihar = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+k_gondwana = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+k_orissa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+k_pagan = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+
+
+d_gauda = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_varendra = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_vanga = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_nadia = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_suhma = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_kamarupanagara = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_sutiya = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_para_lauhitya = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_magadha = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_tirabhukti = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_kasi = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_jharkand = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_dahala = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_ratanpur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_tosali = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_daksina_kosala = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_kalinga = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_dandakaranya = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_pagan = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_tagaung = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_sriksetra = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_arakan = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+d_ramannadesa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_laksmanavati = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kotivarsa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_gauda = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_radha = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_pundravardhana = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_suvarnagram = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_madhupur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_bikrampur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_candradvipa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_karmanta = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_samatata = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_harikela = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_nabadwipa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_saptagrama = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_vijayapura = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_mallabhum = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_tamralipti = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_midnapore = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kamarupanagara = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kamatapur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_haruppeswara = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_charaideo = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kundina = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_goalpara = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_dimapur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_srihatta = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_manipur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_magadha = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_mudgagiri = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_gaya = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sasaram = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_mithila = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_simaramapura = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kusinagara = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_bangaon = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_jaunpur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_varanasi = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_chunar = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_munda = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_jharkand = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_rothas = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_rajrappa = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_damin_i_koh = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_tripuri = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_chauragarh = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_ratanpur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_tummana = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_bandhugadha = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kataka = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_viraja = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_khinjali_mandala = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kodalaka_mandala = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_khijjingakota = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_rayapura = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sripuri = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_suvarnapura = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sambalpur = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kiranapura = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kalinganagar = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_puri = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_swetaka_mandala = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_vizagipatam = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_cakrakuta = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_barasuru = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_pagan = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_ava = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kyaukse = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_minbu = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sagaing = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_yamethin = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_takon = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_madaya = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_hanlan = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kale = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sriksetra = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_magwe = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_hinthada = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_toungoo = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_vaisali = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_ramu = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_thabeik_taung = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sandoway = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_thaton = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_sittaung = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_pegu = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_dagon = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 
+
+c_kusumi = { 
+    1066.9.14 = { 
+        holder = 900002
+    }
+}
+ 

@@ -1,0 +1,1097 @@
+e_scandinavia = {
+	20.1.1 = {
+		change_development_level = 2
+	}
+	
+	1066.1.1 = {
+		change_development_level = 4
+        holder = 900006
+	}
+	
+	1100.1.1 = {
+		change_development_level = 12
+	}
+}
+k_sweden = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+k_sapmi = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+k_denmark = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+k_norway = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+k_finland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_svealand = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_bergslagen = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_vastergotland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_ostergotland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_smaland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_norrland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_gotland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_aarjetje = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_vuovdisamieana = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_duortnoseatnu = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_giemajohka = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_guoldat = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_sjaelland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_skane = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_jylland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_slesvig = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_viken = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_agder = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_vestlandi = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_trandalog = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_dalir = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_halogaland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_iceland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_northern_isles = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_jamtland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_finland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_savo = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_pohjanmaa = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_karelia = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_esthonia = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+d_livonia = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_upland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_gastrikland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sodermannaland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_aland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vastmanland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_varmland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_dalarna = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_dalabergslagen = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vastergotland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_skara = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_dal = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_nordmark = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_ostergotland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kinda = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_narke = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_more = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sevede = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_varend = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_njudung = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_finnveden = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_oland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_halsingland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_medelpad = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_angermanland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_gutland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sjeltie = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_ubmejeiednuo = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_pite = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_jahkamakke = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_biton = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_julevadno = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kittila = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_torne = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_siggevara = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_suondavara = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_rounala = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_aviovara = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_karasjohka = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_peaccam = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kitka = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_koutajoki = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_akkel = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sombio = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_inari = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_skolt = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_ter = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_jovvkuj = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_east_kiilt = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kintus = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sjaelland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_fyn = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_lolland_falster = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_skane = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_halland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_bornholm = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_blekinge = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_aarhus = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_viborg = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_ringkobing = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_aalborg = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_slesvig = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vorbasse = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_ribe = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vingulmork = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_raniriki = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vestfold = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_telemark = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_nedenes = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_agdeside = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_rogalandi = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_hordalandi = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sogn = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_trandheim = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_norwegian_more = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_firdafylki = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_hedmork = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_gudbrandsdalir = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_eystridalir = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_gauldala = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vastvag = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_bothin = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_namdalfylki = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vestisland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_nordrland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_austisland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sudurland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_orkney = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_faereyar = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_shetland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_jamtfir = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_morarna = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_helgum = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_harjadalen = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_finland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_nyland = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_satakunta = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_messukyla = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_tavasts = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_olavinlinna = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sysma = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_pielinen = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_oulu = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_pedersore = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_mustasaari = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kainuu = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kakisalmi = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_viipuri = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_sortavala = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_salinis = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_onega = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_viena = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_kontupohja = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_reval = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_narva = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_osel = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_wiek = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_vidzeme = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_livs = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
+ 
+
+c_dorpat = { 
+    1066.9.15 = { 
+        holder = 900006
+    }
+}
